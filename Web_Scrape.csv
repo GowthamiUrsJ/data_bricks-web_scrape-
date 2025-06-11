@@ -1,0 +1,13 @@
+metric,date,value
+Prices (EUR/MWh),"Sat,_06/07",81.38
+Prices (EUR/MWh),"Sun,_06/08",63.54
+Prices (EUR/MWh),"Mon,_06/09",77.97
+Prices (EUR/MWh),"Tue,_06/10",83.58
+Prices (EUR/MWh),"Wed,_06/11",83.99
+Prices (EUR/MWh),"Thu,_06/12",85.41
+Volume (MWh),"Sat,_06/07",65968.3
+Volume (MWh),"Sun,_06/08",72070.8
+Volume (MWh),"Mon,_06/09",69105.4
+Volume (MWh),"Tue,_06/10",69329.2
+Volume (MWh),"Wed,_06/11",68380.2
+Volume (MWh),"Thu,_06/12",79806
